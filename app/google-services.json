@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131853294005",
+    "project_id": "poliparkesp32",
+    "storage_bucket": "poliparkesp32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131853294005:android:1bea4a8e4d240529cfa1fc",
+        "android_client_info": {
+          "package_name": "com.example.poliparkesp32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4BT_5hyXZca3WuIKjwWyEno9q-ucWs68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
